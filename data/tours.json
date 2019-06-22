@@ -1,0 +1,29 @@
+[
+    {
+        "tourID": "id-0",
+        "location": "Paris",
+        "tourTitle": "paris 1 hour night cruise",
+        "tourCategory": "sailing and water tour",
+        "tourDescription": "Take a night cruise of the river seine",
+        "price": 20,
+        "currency": "EUR"
+    },
+    {
+        "tourID": "id-1",
+        "location": "Rome",
+        "tourTitle": "paris 1 hour night cruise",
+        "tourCategory": "sailing and water tour",
+        "tourDescription": "Take a night cruise of the river seine",
+        "price": 20,
+        "currency": "EUR"
+    },
+    {
+        "tourID": "id-2",
+        "location": "Japan",
+        "tourTitle": "paris 1 hour night cruise",
+        "tourCategory": "sailing and water tour",
+        "tourDescription": "Take a night cruise of the river seine",
+        "price": 200,
+        "currency": "EUR"
+    }
+]
